@@ -1,0 +1,10 @@
+._nav{
+    color: #bdbddd;
+}
+._list{
+    list-style-type: none;
+    display: flex;
+    margin-left: 70%;
+    margin-right: 5%;
+    justify-content: space-between;
+}

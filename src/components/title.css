@@ -1,0 +1,35 @@
+
+.about {
+    text-align: center;
+    color: #bdbddd;
+    margin-top: 15%;
+    margin-bottom: 100px;
+}
+.about__contact{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.about__name {
+    color: #2978b5;
+}
+.about__role {
+    color: #bdbddd;
+}
+.about__desc{
+    margin-left: 20%;;
+    margin-right: 20%;
+}
+.images{
+    width: 50px;
+    height: auto;
+    margin: 8px;
+}
+.resume-button{
+    color: #bdbddd;
+    background-color: #23283e;
+    border: 2px solid #bdbddd;
+    width: 100px;
+    height: 40px;
+    margin-right: 10px;
+}
